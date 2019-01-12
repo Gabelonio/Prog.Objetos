@@ -1,2 +1,2 @@
 # Prog.Objetos
-<h2>Repositorio de las tematicas y proyectos realizados en programación básica UD</h2>
+<h2>Repositorio de las tematicas y proyectos realizados en programación orientada a objetos UD</h2>
