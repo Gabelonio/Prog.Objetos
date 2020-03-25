@@ -1,6 +1,6 @@
 # UD-Object-Oriented-Programming
 <h2>Repository made for the topics and projects in the Object Oriented Programming subject UD</h2>
-<h2>Activities by Project:
+<h3>Activities by Project:
 <ol type="1">
   <li> Geometry Basic Applications:
 		<ol type="1">
@@ -79,5 +79,5 @@
 		</ol>								
   </li>
 </ol>
-</h2>
+</h3>
 <h3>Gabriel Esteban Castillo Ramírez - 20171020021</h3>
